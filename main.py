@@ -1,3 +1,61 @@
+#Day 6
+
+'''
+print('MY LOGIN SYSTEM')
+print('---------------')
+
+username = input('Username > ')
+password = input('Password > ')
+
+if username == 'Tom' and password == 'myspace99':
+  print('Hello there Tom! You made quite a great social network back in the day. Too bad it went downhill from there.')
+elif username == 'Jamie' and password == 'lannister69':
+  print('Hello there Jamie! You better hurry up and go see your sister before you dad gets home')
+elif username == 'Mchief' and password == 'iluvcortana':
+  print('Halo there Masterchief! Have a great day killing those Covenant scum.')
+else:
+  print('Go away!')
+
+'''
+
+
+'''
+
+season = input("what is your favorite season?")
+if season == "spring":
+  print("Ah! The birds are chirping and flowers blooming.")
+elif season == "summer":
+  print("Catch some sun and cool off with a lemonade.")
+elif season == "autumn":
+  print("The leaves are changing and the air is crisp. Enjoy!")
+elif season == "winter":
+  print("Stay warm by the fire and watch the snow fall.")
+else: 
+  print("I don't know that season. Please try again.")
+
+
+'''
+
+
+'''
+
+print('SECURE LOGIN')
+username = input('Username > ')
+password = input('Password > ')
+
+if username == "Frank" and password == 'password1':
+  print('Hello Frank!')
+elif username == "Chiara" and password == 'Ch1ara88':
+  print('Hello Chiara!')
+else:
+  print('Go away!')
+  
+
+'''
+
+
+
+
 #Day 5
 
 '''
