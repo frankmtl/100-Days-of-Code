@@ -1,3 +1,42 @@
+#Day 2
+
+#my_Name = input("Name: ")
+
+'''
+myName = input("What is your name?: ")
+myAge = input("How old are you?: ")
+print("Gee, that's REALLY OLD")
+replit = input("Do you like Replit?")
+print("Of course you do!")
+print() #extra print for spacing in console
+print("So, you are")
+print(myName)
+print("and are the ripe old age of")
+print(myAge)
+print("and clearly think that Replit is")
+
+'''
+'''
+myName = input("What is your name?: ")
+myFood = input("What is your favorite food?: ")
+myMusic = input("What is your favorite music?: ")
+myLocation = input("Where do you live?: ")
+print()
+print("You are")
+print(myName)
+print("You're probably hungry for")
+print(myFood)
+print("and you're definitely getting your groove on to")
+print(myMusic)
+print("living in the amazing")
+print(myLocation)
+
+'''
+
+
+
+
+
 #Day 1
 
 print("Hello Replit")
@@ -25,3 +64,4 @@ for not coding from the middle of a field!
 I am feeling 😃
 You can follow my progress at replit.com/@F
 ''')
+
