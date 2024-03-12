@@ -1,3 +1,67 @@
+#Day 7
+
+'''
+
+print('Fake Fan Finder')
+print('---------------')
+
+anime = input('What is better: Death Note or Hunter X Hunter? ')
+
+if anime == 'Death Note':
+  print("nice")
+  protaganist = input('What was the first name of the person who recieved the death note book? ')
+  if protaganist == 'Light':
+    print('You are a true fan')
+  else:
+    print('You are a fake fan')
+elif anime == 'Hunter X Hunter':
+  print('Good for you, I never watched it')
+else:
+  print('You should watch more anime')
+  
+
+'''
+
+
+'''  
+order = input("What would you like to order: pizza or hamburger? ")
+if order == "hamburger":
+  print("Thank you.")
+  cheese = input("Do you want cheese?")
+  if cheese == "yes":
+    print("You got it.")
+  else: 
+    print("No cheese it is.")
+elif order == "pizza":
+  print("Pizza coming up.")
+  toppings = input("Do you want pepperoni on that?")
+  if toppings == "yes":
+    print("We will add pepperoni.")
+  else:
+   print("Your pizza will not have pepperoni.")
+
+'''
+
+
+'''
+
+tvShow = input("What is your favorite tv show? ")
+if tvShow == "game of thrones":
+  print("Ugh, why?")
+  faveCharacter = input("Who is your favorite character? ")
+  if faveCharacter == "John Snow":
+   print("Great choice")
+  else:
+     print("Nah, John Snow the greatest")
+elif tvShow == "breaking bad":
+  print("Great choice but Game of Thrones is better except for that last season")
+else:
+  print("You have horrible taste, please leave!")
+
+'''
+
+
+
 #Day 6
 
 '''
