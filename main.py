@@ -1,3 +1,34 @@
+#Day 3 
+'''
+foodName = input("Name a food: ")
+plantName = input("Name a type of plant: ")
+cookingMethod = input("Name a method of cooking: ")
+burnedFood = input("What word describes burned food?: ")
+homeItem = input("Name a household item: ")
+
+print("My favorite food is", cookingMethod, foodName, "with", burnedFood, plantName, "on a bed of", homeItem)
+
+'''
+
+'''
+
+print("=== Your Song Generator ===")
+print("""You'll be asked a bunch of questions
+then we'll make you up an amazing
+song, totally copyright free 😭""")
+print()
+person = input("Name a person famous for something good: ")
+thing = input("Name a thing they did: ")
+place = input("Name a place you like: ")
+rhyme = input("Give me a verb that rhymes with your person's name: ")
+print()
+print("There was a person called", name)
+print("Who did something cool like", thing, "at the wonderful", place , "where you'll find me", rhyme)
+
+'''
+
+
+
 #Day 2
 
 #my_Name = input("Name: ")
