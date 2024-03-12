@@ -1,3 +1,37 @@
+#Day 4
+
+'''
+print("=== Your Adventure Simulator ===")
+print("""You'll be asked a bunch of questions thn we'll make you up an amazing story with YOU as the star! 🤩""")
+print()
+name = input("Your name: ")
+enemy = input("Your worst enemy's name: ")
+superPower = input("Your super power: ")
+fear = input("Your biggest fear: ")
+location = input("A random location: ")
+print()
+print("This story starts out with", name, "taking a walk in", location)
+print()
+print('Then all of a sudden a huge bout of', fear, "takes over", name)
+print()
+print('With a huge explosion of fog', enemy, "appears and says that", location, 'belongs to them and that', name, 'is on their turf')
+print()
+print('When hearing this', name, 'got angry and', fear, 'left and', name, 'used their power of', superPower, 'to defeat', enemy, 'and saved', location, 'from the wrath of', enemy)
+
+'''
+
+'''
+print("Uh, oh, you've been given a", '\033[36m', 'warning', '\033[0m', 'for being a bad, bad person.')
+
+'''
+
+
+
+
+
+
+
+
 #Day 3 
 '''
 foodName = input("Name a food: ")
@@ -26,6 +60,10 @@ print("There was a person called", name)
 print("Who did something cool like", thing, "at the wonderful", place , "where you'll find me", rhyme)
 
 '''
+
+
+
+
 
 
 
@@ -63,6 +101,8 @@ print("living in the amazing")
 print(myLocation)
 
 '''
+
+
 
 
 
