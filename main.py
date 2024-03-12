@@ -1,3 +1,36 @@
+#Day 5
+
+'''
+
+print("=== Game of Thrones Character Creator ===")
+print()
+q1 = input("Do you like to the thick of the battle? ")
+if q1 == "yes":
+  print("You are a Stark!")
+else:
+  print("You are a Lannister.")
+
+'''
+
+'''
+drink = input("Do you prefer coffee or tea?")
+if drink == "coffee":
+  print("Tea is better.")
+else:
+  print("Excellent choice.")
+'''
+
+'''
+myName = input("What's your name?: ")
+if myName == "Frank":
+  print("Yo what's up bro?")
+else:
+  print("Where's Frank?")
+
+'''
+
+
+
 #Day 4
 
 '''
