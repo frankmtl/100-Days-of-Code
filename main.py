@@ -1,3 +1,40 @@
+#Day 8
+
+'''
+
+print('Amazing Insult Machine')
+print('----------------------')
+
+name = input("Hey dummy, what's your name? ")
+
+if name == "Bob" or name == "bob":
+  print("Hey", name, "you're very ugly!")
+  insult = input('Was that insult too harsh? ')
+  if insult == "yes":
+    print("Well that's just too bad, the truth hurts")
+    hobbies = input('What hobbies do you have? ')
+    if hobbies == "Coding" or hobbies == "coding":
+      print("Well,", name, "you should go do some", hobbies, "so we don't have to insult you anymore")
+  else:
+    print('It is nice to see you have a good sense of humour, especially for an ugly person like you')
+    hobbies = input('What hobbies do you have? ')
+    if hobbies == "Gaming" or hobbies == "gaming":
+      print('Well then', name, 'maybe you should go', hobbies,'right now so I do not have to speak to your dumb ass')
+    else:
+      print('Go fuck yourself')
+else:
+  print('hey', name, 'You have a very ugly name')
+  ending = input('Nice! Do you like surprises? ')
+  if ending == "yes":
+    print("Surprise", name, ", you are a bitch")
+  else:
+    print('Not suprised at all. People named', name, 'usually do not like surprises. Now go away!')
+    
+
+'''
+
+
+
 #Day 7
 
 '''
