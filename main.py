@@ -1,3 +1,42 @@
+#Day 10
+
+'''
+print('TIP CALCULATOR')
+print('==============')
+
+bill = float(input('How much was spent? '))
+tip = int(input('What percentage do you want to tip? '))
+people = int(input('How many people are splitting the bill? '))
+tip_amount = bill * (tip / 100)
+total_bill = bill + tip_amount
+bill_per_person = total_bill / people
+final_amount = round(bill_per_person, 2)
+print('Each person owes $', final_amount)
+
+'''
+
+
+'''
+myBill = float(input("What was the bill?: "))
+numberOfPeople = int(input("How many people?: "))
+answer = myBill / numberOfPeople
+answer = round(answer, 2)
+print('You each owe', answer)
+'''
+
+'''
+#module = 343 % 4
+#module = 10**2
+#module = 2467 / 4673
+#module = 3.4 * 6.8
+#module = 15 % 4
+print(module)
+'''
+
+
+
+
+
 #Day 9
 
 '''
